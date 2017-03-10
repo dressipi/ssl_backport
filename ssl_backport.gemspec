@@ -5,7 +5,7 @@ require 'ssl_backport/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ssl_backport"
-  spec.version       = SslBackport::VERSION
+  spec.version       = SSLBackport::VERSION
   spec.authors       = ["Frederick Cheung"]
   spec.email         = ["fred@dressipi.com"]
 
